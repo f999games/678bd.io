@@ -1,2 +1,16 @@
-# 678bd.io
-678bd.io, বাংলাদেশের সেরা অনলাইন ক্যাসিনো। আকর্ষণীয় ক্যাসিনো গেম এবং একেবারে নতুন, এক্সক্লুসিভ JILI স্লট। JILI স্লট, সুপার এস, ফরচুন জেম, ফরচুন রোল, পাইলট, কিং অফ বক্সার্স, আলিবাবা, ক্রেজি 777, ক্রেজি টাইম - বন্ধুদের আমন্ত্রণ জানান এবং 5,000 টাকা পুরস্কার পান।
+# 678BD.io - Best Online Casino in Bangladesh 🚀
+
+Welcome to the official repository for **678BD**. One of the most popular platforms for online gaming and casino experiences in Bangladesh.
+
+### 🌐 Official Link
+- **Website:** [https://678bd.io](https://678bd.io)
+- **Play Now:** [Start Gaming at 678BD](https://678bd.io)
+
+### 📄 About the Project
+This repository contains the landing page architecture for 678BD.io, featuring:
+- Mobile-optimized interface.
+- ৳200 referral bonus.
+- Up to 3.7% lifetime commission.
+
+---
+*© 2026 678BD Official Branding.*
